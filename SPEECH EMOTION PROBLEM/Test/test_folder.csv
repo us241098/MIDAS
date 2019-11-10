@@ -1,0 +1,6 @@
+file_name,class_label
+MEL_dia99_utt18_neutral_NEU.wav,neutral
+MEL_dia143_utt5_negative_FEA.wav,fear
+MEL_dia9_utt11_negative_SAD.wav,sad
+MEL_dia21_utt5_positive_HAP.wav,happy
+MEL_dia992_utt3_positive_HAP.wav,happy
